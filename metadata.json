@@ -1,0 +1,7 @@
+{
+  "name": "Swingsfab",
+  "description": "A modern and sleek social discovery platform designed to help you connect with new people. Experience a visually stunning and intuitive interface to find your next connection.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
